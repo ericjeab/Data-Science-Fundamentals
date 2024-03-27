@@ -6,4 +6,4 @@
 - Matplotlib
 - Pandas
 
-Instructor of the course is @sigvehaug 
+Instructor of the course is [sigvehaug](https://github.com/sigvehaug)
