@@ -3,6 +3,7 @@
 # Learing Outcome: 
 - Basic Python
 - Numpy
-- Scipy
-- Matplot
-- 
+- Matplotlib
+- Pandas
+
+Instructor of the course is @sigvehaug 
