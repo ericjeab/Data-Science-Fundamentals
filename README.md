@@ -1,9 +1,1 @@
-# Data-Science-Fundamentals
-
-# Learing Outcome: 
-- Basic Python
-- Numpy
-- Matplotlib
-- Pandas
-
-Instructor of the course is [sigvehaug](https://github.com/sigvehaug)
+## This folder contains all the files used on Ubelix (exempting the Documentation)
